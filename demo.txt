@@ -1,0 +1,1 @@
+Have you ever wanted to build a web app for your data science project? But perhaps did not because of the extensive time needed to code the web app or intimidated by Django and flask? In this video, I will show you how to build a machine learning powered data science web app in Python using the streamlit library in less than 50 lines of code.
